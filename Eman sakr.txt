@@ -1,6 +1,6 @@
 Hello,
 In testing we always need a tool to write test cases, bug reporting, test plans and SRS files.
-I used Microsoft Google sheets to write my test cases and bug reporting.
+I used Google sheets to write my test cases and bug reporting.
 
 Test cases link:
 https://docs.google.com/spreadsheets/d/1ftWxss2WBMkdI2Mw-Ww-CeuxaGs8nGuGzVcCvU3c5wQ/edit?ouid=118071022050108031523&usp=sheets_home
